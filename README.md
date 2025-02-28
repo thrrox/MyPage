@@ -4,6 +4,6 @@
 * *about myself*
 
 ## this is me:
-<img src="k.gif" alt="me">
+![me](kit.png)
 
->*gif also made by me*
+>*pic also made by me*
